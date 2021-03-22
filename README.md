@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/freshowsky" target="blank"><img src="https://img.shields.io/twitter/follow/freshowsky?logo=twitter&style=for-the-badge" alt="freshowsky" /></a> </p>
 
-🔭 I’m currently working on **Virtual Desk in React**
+🔭 I’m currently working on **Hooks Playground**
 
 👨‍💻 All of my projects are available at [TBA](TBA)
 
