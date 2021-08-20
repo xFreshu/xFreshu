@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Łukasz Przybysz</h1>
 <h3 align="center">Aspiring junior frontend developer</h3>
 
-- 🌱 I’m currently learning **React -> Redux -> C#/NodeJS**
+- 🌱 I’m currently learning **React -> TS -> Redux -> NodeJS**
 
 - 👨‍💻 All of my projects are available at [angry-yalow-9ddbc1.netlify.app](angry-yalow-9ddbc1.netlify.app)
 
