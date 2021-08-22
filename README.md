@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React -> TS -> Redux -> NodeJS**
 
-- 👨‍💻 All of my projects are available at [angry-yalow-9ddbc1.netlify.app](angry-yalow-9ddbc1.netlify.app)
+- 👨‍💻 All of my projects are available at [przybyszdev.netlify.app](przybyszdev.netlify.app)
 
 - 📫 How to reach me **lprzybyszcontact@gmail.com**
 
