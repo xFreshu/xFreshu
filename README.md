@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React -> TS -> Redux -> NodeJS**
 
-- 👨‍💻 All of my projects are available at [lprzybyszwebdeveloper.netlify.app](lprzybyszwebdeveloper.netlify.app)
-
 - 📫 How to reach me **lprzybyszcontact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
